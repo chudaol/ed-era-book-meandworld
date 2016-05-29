@@ -5,10 +5,10 @@
 ## <i>35 годин</i>
 
 <p><b>Зміст розділу:</b></p>
-* [Людина](3/lyduna.md)
-* [Людина серед людей](3/lyduna_s.md)
-* [Людина в суспільстві](3/lyduna_v_susp.md)
-* [Людина і світ](3/lyduna_i_svit.md)
+* [Людина](lyduna.md)
+* [Людина серед людей](lyduna_s.md)
+* [Людина в суспільстві](lyduna_v_susp.md)
+* [Людина і світ](lyduna_i_svit.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
